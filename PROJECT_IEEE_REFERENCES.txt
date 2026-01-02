@@ -1,0 +1,173 @@
+===============================================
+IEEE REFERENCES FOR ISL TRANSLATION SYSTEM
+===============================================
+
+Copy these references directly into your project report/IEEE paper:
+
+REFERENCES
+==========
+
+[1] F. Zhang, V. Bazarevsky, A. Vakunov, A. Tkachenka, G. Sung, C. Chang, and M. Grundmann, "MediaPipe Hands: On-device Real-time Hand Tracking," arXiv preprint arXiv:2006.10214, 2020.
+
+[2] M. Abadi et al., "TensorFlow: A system for large-scale machine learning," in 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16), 2016, pp. 265-283.
+
+[3] C. Lugaresi et al., "MediaPipe: A framework for building perception pipelines," arXiv preprint arXiv:1906.08172, 2019.
+
+[4] Indian Sign Language Research and Training Centre (ISLRTC), "Indian Sign Language Dictionary," Ministry of Social Justice and Empowerment, Government of India. [Online]. Available: https://www.islrtc.nic.in/
+
+[5] G. Bradski, "The OpenCV Library," Dr. Dobb's Journal of Software Tools, 2000.
+
+[6] Y. LeCun, Y. Bengio, and G. Hinton, "Deep learning," Nature, vol. 521, no. 7553, pp. 436-444, 2015.
+
+[7] Facebook Inc., "React - A JavaScript library for building user interfaces," 2022. [Online]. Available: https://reactjs.org/
+
+[8] OpenJS Foundation, "Node.js - JavaScript runtime," 2023. [Online]. Available: https://nodejs.org/
+
+[9] MongoDB Inc., "MongoDB Documentation," 2023. [Online]. Available: https://www.mongodb.com/
+
+[10] M. Jones, J. Bradley, and N. Sakimura, "JSON Web Token (JWT)," RFC 7519, May 2015.
+
+[11] A. Bragg et al., "Sign Language Recognition, Generation, and Translation: An Interdisciplinary Perspective," in The 21st International ACM SIGACCESS Conference on Computers and Accessibility, 2019, pp. 16-31.
+
+[12] O. Koller, "Quantitative Survey of the State of the Art in Sign Language Recognition," arXiv preprint arXiv:2008.09918, 2020.
+
+[13] R. Rastgoo, K. Kiani, and S. Escalera, "Sign Language Recognition: A Deep Survey," Expert Systems with Applications, vol. 164, p. 113794, 2021.
+
+[14] N. C. Camgoz, S. Hadfield, O. Koller, H. Ney, and R. Bowden, "Neural Sign Language Translation," in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018, pp. 7784-7793.
+
+[15] World Wide Web Consortium (W3C), "Web Content Accessibility Guidelines (WCAG) 2.1," W3C Recommendation, Jun. 2018. [Online]. Available: https://www.w3.org/TR/WCAG21/
+
+[16] I. Fette and A. Melnikov, "The WebSocket Protocol," RFC 6455, Dec. 2011.
+
+[17] R. T. Fielding, "Architectural Styles and the Design of Network-based Software Architectures," Doctoral dissertation, University of California, Irvine, 2000.
+
+[18] Socket.IO Contributors, "Socket.IO Documentation - Real-time bidirectional event-based communication," 2023. [Online]. Available: https://socket.io/
+
+[19] P. Grinberg, "Flask Web Development: Developing Web Applications with Python," O'Reilly Media, 2018.
+
+[20] T. E. Oliphant, "A guide to NumPy," Trelgol Publishing, 2006.
+
+===============================================
+SOFTWARE LIBRARIES & VERSIONS USED
+===============================================
+
+Frontend:
+- React.js v18.2.0
+- React Router v6.20.1
+- TensorFlow.js v4.15.0
+- MediaPipe Hands v0.4.1646424915
+- Framer Motion v10.16.16
+- Socket.IO Client v4.6.1
+- React Webcam v7.2.0
+- Axios v1.6.2
+- React Icons v4.12.0
+- Recharts v2.10.3
+
+Backend:
+- Node.js v16+
+- Express.js v4.18.2
+- MongoDB v5+
+- Mongoose v8.0.3
+- jsonwebtoken v9.0.2
+- bcryptjs v2.4.3
+- Socket.IO v4.6.1
+- CORS v2.8.5
+
+Machine Learning:
+- Python 3.8+
+- Flask v3.0.0
+- MediaPipe v0.10.8
+- OpenCV v4.8.1.78
+- NumPy v1.26.2
+- Pillow v10.1.0
+
+===============================================
+PROJECT CITATION FORMAT
+===============================================
+
+Use this format to cite YOUR project:
+
+[Your Name], "AI-Powered Indian Sign Language Translation System: A Real-Time Web Application with Machine Learning Integration," [Degree] Project Report, Department of [Your Department], [Your University], [City, Country], 2025.
+
+Example:
+R. Kumar, "AI-Powered Indian Sign Language Translation System: A Real-Time Web Application with Machine Learning Integration," B.Tech Project Report, Department of Computer Science and Engineering, ABC University, Mumbai, India, 2025.
+
+===============================================
+IN-TEXT CITATION EXAMPLES
+===============================================
+
+Example 1:
+"The system utilizes MediaPipe Hands [1] for real-time hand landmark detection with 21 keypoints per hand."
+
+Example 2:
+"According to the Indian Sign Language Research and Training Centre [4], ISL is the primary sign language used by the deaf community in India."
+
+Example 3:
+"Deep learning has revolutionized computer vision applications [6], enabling accurate gesture recognition in real-time."
+
+Example 4:
+"Recent surveys on sign language recognition [12], [13] indicate that deep learning approaches achieve accuracies above 90% on standard datasets."
+
+Example 5:
+"The MERN stack architecture combines MongoDB [9], Express.js, React [7], and Node.js [8] for full-stack web development."
+
+===============================================
+ADDITIONAL CITATIONS (IF NEEDED)
+===============================================
+
+For Web Accessibility:
+[21] J. Nielsen, "Usability Engineering," Morgan Kaufmann, 1993.
+
+For Design Patterns:
+[22] E. Gamma, R. Helm, R. Johnson, and J. Vlissides, "Design Patterns: Elements of Reusable Object-Oriented Software," Addison-Wesley Professional, 1994.
+
+For Image Processing:
+[23] R. C. Gonzalez and R. E. Woods, "Digital Image Processing," 4th ed., Pearson, 2018.
+
+For REST API:
+[24] L. Richardson and M. Amundsen, "RESTful Web APIs: Services for a Changing World," O'Reilly Media, 2013.
+
+For Security:
+[25] N. Provos and D. Mazières, "A Future-Adaptable Password Scheme," in Proceedings of the 1999 USENIX Annual Technical Conference, Jun. 1999, pp. 81-91.
+
+===============================================
+QUICK REFERENCE MAPPING
+===============================================
+
+Your Feature              →  Cite This
+------------------           ----------
+Hand Gesture Detection    →  [1], [3]
+Machine Learning Model    →  [2], [6]
+ISL Standards            →  [4]
+Sign Language Research   →  [11], [12], [13], [14]
+Frontend (React)         →  [7]
+Backend (Node/Express)   →  [8], [17]
+Database (MongoDB)       →  [9]
+Authentication (JWT)     →  [10]
+Real-time Communication  →  [16], [18]
+Accessibility           →  [15]
+Image Processing        →  [5]
+
+===============================================
+NOTES
+===============================================
+
+1. All references follow IEEE citation format
+2. Use square brackets [1], [2] for in-text citations
+3. List references in order of appearance in text
+4. Include DOI or URL where available
+5. Update year to 2025 for project submission
+
+===============================================
+LICENSE REFERENCE
+===============================================
+
+This project is licensed under the MIT License.
+Copyright (c) 2025 ISL Translation System
+
+===============================================
+
+
+
+
+
