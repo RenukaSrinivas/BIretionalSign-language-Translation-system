@@ -1,1 +1,1 @@
-# BIretionalSign-language-Translation-system
+# BIdiretionalSign-language-Translation-system
